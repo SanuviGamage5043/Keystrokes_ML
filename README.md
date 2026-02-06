@@ -85,3 +85,7 @@ Evaluation metrics and trained models will be saved in the outputs/ folder.
 - Optimize feature engineering techniques
 - Implement real-time typing authentication
 - Submit Pull Requests with clear descriptions
+
+## 📌 Dataset
+
+The dataset used in this project is from https://www.kaggle.com/datasets/noelsmathew/keystrokes
